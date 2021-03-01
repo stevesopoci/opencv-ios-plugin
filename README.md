@@ -1,6 +1,6 @@
 # opencv-ios-plugin
 
-OpenCViOSPlugin is an iOS static library written in Objective-C++ that detects and retrieves red laser coordinates via `opencv2.framework`, and it is intended to be used as a native plugin for the Unity project [LaserDetectionUnity]().
+`OpenCViOSPlugin` is an iOS static library written in Objective-C++ that detects and retrieves red laser coordinates via `opencv2.framework`, and it is intended to be used as a native plugin for the Unity project [LaserDetectionUnity]().
 
 <h2> Usage </h2>
 
