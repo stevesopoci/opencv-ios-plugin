@@ -2,7 +2,7 @@
 
 `OpenCViOSPlugin` is an iOS static library written in Objective-C++ that detects and retrieves red laser pointer coordinates via `opencv2.framework`, and it is intended to be used as a native plugin for the Unity project [LaserDetectionUnity](https://github.com/stevesopoci/laser-detection-unity).
 
-<h2> Usage </h2>
+<h2> Setup </h2>
 
 1. Open `OpenCViOSPlugin` in Xcode and download the [OpenCV - 2.4.13 iOS pack](https://sourceforge.net/projects/opencvlibrary/files/opencv-ios/2.4.13/opencv2.framework.zip/download).
 2. Drag and drop the downloaded `opencv2.framework` into the frameworks folder, and ensure the boxes for `Copy items if needed`, `Create groups`, and `OpenCViOSPlugin` are checked.
